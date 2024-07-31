@@ -1,3 +1,0 @@
-# Meetign Preparation
-
-## 

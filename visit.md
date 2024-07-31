@@ -1,6 +1,6 @@
 # Exploring Chambana
 
-## Restaturants
+## Restaurants
 1. Black Dog (All Time favourite)
 2. Napolis
 3. Biaggis
