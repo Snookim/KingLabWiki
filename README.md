@@ -12,9 +12,9 @@ Welcome to the King Lab! This wiki will accelerate your onboarding and provide u
 - [Working with the Business Office](./businessoffice.md)
 
 ## Computing Resources
-- [Introduction to GitHub](./githubintro.md)
+- [Introduction to GitHub](./github/githubintro.md)
 - [Software and Computer Resources](./software.md)
-    - [Compute Reservation Form](./software.md#reservationform)
+    - [Compute Reservation Form](https://docs.google.com/forms/d/e/1FAIpQLSdlS5YfXGFcA1PmO1cRzOvmQpiYS5Gd-IQXK2Z6SlDuIxqSPw/viewform)
 - [Setting up a Program Environment](./envsetup.md)
 
 ## Campus and Beyond
