@@ -1,37 +1,25 @@
-# Training Tutorials
+# King Lab Wiki
 
-Use this repo to play around with Git and GitHub and to better understand what each command is really doing. I walk through beginner setup activities, as well as more advanced tools we use in the lab.
+Welcome to the King Lab! This wiki will accelerate your onboarding and provide useful links to resources and trainings. To use, simply scroll to the section you are interested in and click the link.
 
-## [Beginner Sections](./beginner.md)
-- [Introduction to Git and GitHub](./beginner.md#introduction)
-- [Initial setup](./beginner.md#initial-setup)
-    - Setup Git and GitHub
-    - Fork this repo and create a local copy
-    - Set up Visual Studio Code editor
-- [Basic Git commands](./beginner.md#git-commands)
-- [GitHub Workflow](./beginner.md#github-workflow)
-- [Practice](./beginner.md#practice)
-    - Observe how Git tracks your changes
-    - GitHub PR and Issue
+## Introduction to Research
+- [Preparing for a Research Meeting](./meetingprep.md)
+- [How to make Figures and Plots](./figuresplots.md)
+- [How to do a good Literature Search](./literaturesearch.md)
 
-## [Moderate Sections](./moderate.md)
-- [Git commands](./moderate.md#git-commands)
-- [Merge conflicts](./moderate.md#merge-conflicts)
-- [Formatting code](./moderate.md#formatting-code)
-- [Versioning](./moderate.md#versioning)
-- [Referencing](./moderate.md#referencing)
-- [Multiple remotes](./moderate.md#multiple-remotes)
+## General Resources
+- [Lab Facilities](./labfacilities.md)
+- [Working with the Business Office](./businessoffice.md)
 
-## [Advanced Sections](./advanced.md)
-- [Virtual environments](./advanced.md#virtual-environment)
-- [GitHub Secrets](./advanced.md#github-secrets)
-- [Continuous Integration](./advanced.md#continuous-integration)
-    - Dependabot
-    - GitHub Actions
-    - Testing
-    - Code Coverage
-- [SSH Authentication](./advanced.md#ssh-authentication)
-- [Packaging Code](./advanced.md#packaging-code)
-    - pip install
-    - git subtree
-    - git submodule
+## Computing Resources
+- [Introduction to GitHub](./githubintro.md)
+- [Software and Computer Resources](./software.md)
+    - [Compute Reservation Form](./software.md#reservationform)
+- [Setting up a Program Environment](./envsetup.md)
+
+## Campus and Beyond
+- [Tips for Success](./tips.md)
+- [Mental Health](./mentality.md)
+- [Daily Life Essentials](./dailylife.md)
+- [Where to visit in CU](./visit.md)
+
