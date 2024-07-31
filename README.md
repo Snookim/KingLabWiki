@@ -1,6 +1,6 @@
 # King Lab Wiki
 
-Welcome to the King Lab! This wiki will accelerate your onboarding and provide useful links to resources and trainings. To use, simply scroll to the section you are interested in and click the link.
+Welcome to the King Lab Wiki! This wiki will accelerate your onboarding and provide useful links to resources and trainings. To use, simply scroll to the section you are interested in and click the link.
 
 ## Introduction to Research
 - [Preparing for a Research Meeting](./meetingprep.md)
@@ -19,7 +19,7 @@ Welcome to the King Lab! This wiki will accelerate your onboarding and provide u
 
 ## Campus and Beyond
 - [Tips for Success](./tips.md)
-- [Mental Health](./mentality.md)
+- [Attitude, Mindset, and Outlook](./mentality.md)
 - [Daily Life Essentials](./dailylife.md)
 - [Where to visit in CU](./visit.md)
 
