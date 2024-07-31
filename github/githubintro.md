@@ -1,6 +1,6 @@
 # Training Tutorials
 
-Use this repo to play around with Git and GitHub and to better understand what each command is really doing. I walk through beginner setup activities, as well as more advanced tools we use in the lab.
+Visit the [Training Repo](https://github.com/djmcgregor/training) to play around with Git and GitHub and better understand what each command is really doing. The links below explain the tutorials available in the [Training Repo](https://github.com/djmcgregor/training).
 
 ## [Beginner Sections](./github/beginner.md)
 - [Introduction to Git and GitHub](./beginner.md#introduction)
