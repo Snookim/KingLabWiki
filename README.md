@@ -23,3 +23,5 @@ Welcome to the King Lab! This wiki will accelerate your onboarding and provide u
 - [Daily Life Essentials](./dailylife.md)
 - [Where to visit in CU](./visit.md)
 
+## [Contributing to the Wiki](./wikicontrib.md)
+
