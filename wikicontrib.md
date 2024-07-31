@@ -1,8 +1,12 @@
-# Lab Wiki
+# Contributing to the Lab Wiki
 
-## Introduction
+Each page of the wiki is a markdown file (.md). You can use this page as a template for creating and formatting your markdown file.
+On the github page, simply click "Raw" in the upper right to view the hidden text.
+Once your markdown file is complete, it must be commited to the main branch to be added. Please see the Github tutorial for instructions on how to commit, or contact a wiki admin.
 
-Welcome to the lab wiki! This document provides an overview of our research, people, and resources.
+## Headings
+
+Use #, ##, or ### to denote headings. Please use ## as a default for a main heading. 
 
 ## Adding Images
 
@@ -15,6 +19,8 @@ To add an image, use the following syntax:
 To create a hyperlink, use the following syntax:
 
 [Link Text](http://example.com)
+
+You can also use the same formatting to link to another page in the wiki.
 
 ## Adding Code
 
