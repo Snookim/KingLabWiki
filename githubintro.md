@@ -2,7 +2,7 @@
 
 Use this repo to play around with Git and GitHub and to better understand what each command is really doing. I walk through beginner setup activities, as well as more advanced tools we use in the lab.
 
-## [Beginner Sections](./beginner.md)
+## [Beginner Sections](./github/beginner.md)
 - [Introduction to Git and GitHub](./beginner.md#introduction)
 - [Initial setup](./beginner.md#initial-setup)
     - Setup Git and GitHub
@@ -14,7 +14,7 @@ Use this repo to play around with Git and GitHub and to better understand what e
     - Observe how Git tracks your changes
     - GitHub PR and Issue
 
-## [Moderate Sections](./moderate.md)
+## [Moderate Sections](./github/moderate.md)
 - [Git commands](./moderate.md#git-commands)
 - [Merge conflicts](./moderate.md#merge-conflicts)
 - [Formatting code](./moderate.md#formatting-code)
@@ -22,7 +22,7 @@ Use this repo to play around with Git and GitHub and to better understand what e
 - [Referencing](./moderate.md#referencing)
 - [Multiple remotes](./moderate.md#multiple-remotes)
 
-## [Advanced Sections](./advanced.md)
+## [Advanced Sections](./github/advanced.md)
 - [Virtual environments](./advanced.md#virtual-environment)
 - [GitHub Secrets](./advanced.md#github-secrets)
 - [Continuous Integration](./advanced.md#continuous-integration)
