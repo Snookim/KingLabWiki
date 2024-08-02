@@ -12,6 +12,32 @@ Follow the instructions at https://answers.uillinois.edu/illinois/98773
 # Collection of more resources
 You can visit https://techservices.illinois.edu/student-resource-guide/ to get an overview of all the software-based services available for a student at UIUC.
 
-# Lab Computers
-King Lab has 12 workstations. Note that many people need to share the resources and hence we have a calender through which you can book the timings for a particular workstation. After getting access to the KingLab Calender, got to https://docs.google.com/forms/d/e/1FAIpQLSdlS5YfXGFcA1PmO1cRzOvmQpiYS5Gd-IQXK2Z6SlDuIxqSPw/viewform and choose a workstation according to your requirements. Ensure that no one else has an overlapping slot for the workstation. 
-For remote access to the PCs, you need to get registered in the <> and then use Microsoft Remote Desktop Client. The userid and passwrod will be the same as your Illinois ID and the url of the PC would be mechse-wpk-<n>.ad.uillinois.edu. You have to be connect to the university Wi-Fi or use a VPN.
+# Remote connection to lab workstations and computation nodes
+
+## Accessing research group computers
+Currently, we have many workstations with various computational capabilities. Most of the workstations are physically located in our lab at MEL 1214.
+
+To access workstations, you need to first reserve a time slot using [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdlS5YfXGFcA1PmO1cRzOvmQpiYS5Gd-IQXK2Z6SlDuIxqSPw/viewform). The form provides a list of all the machines with their intended use and specs. Before reserving a time slot, please make sure the time slot for that specific machine is empty through [this calendar](https://calendar.google.com/calendar/u/1?cid=Y19lOTk3MjI5OGQ3YjUxYmZmMzkwNjE3OGZjNDg4YmUxYjgwZWZlYzJkMWQ1MDQxMGRlNTJkMjcyNmU3MzZhNDBmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). You don't have to add your time slot to the calendar as it will automatically be populated after submitting the form. If you made any mistake in the form or you would like to edit/delete your time slot, you can do so directly in the calendar. Please keep time slot reservation specific to your needs, and try to be considerate for other that might need the workstation too.
+
+After reserving the time slot, you can access the machine using **Windows Remote Desktop Connection**, which should be natively implemented in your personal computer's Windows. To access the machine:
+1. Open **Windows Remote Desktop Connection**
+2. Enter the computer address: *mechse-wpk-XX.ad.uillinois.edu*, where XX is the machine number
+3. Click **Connect**
+4. A credentials prompt will appear. Enter the User name as **UOFI\YourNetID** (replace YourNetID with your NetID, make sure you are using **\** and not **/**). For Password, use your NetID password. Check **Remember me** for easier connection later
+5. You might get a message stating that *The certificate is not from a trusted certifying authority*, just ignore the message and click **Yes**
+6. You are connected now to the workstation
+
+Notes:
+1. You have to be connected to the campus network to access the lab computers. If you are outside campus network, you can use [Campus VPN](https://github.com/wpklab/KingLabWiki/blob/main/software.md#vpn-access)
+2. Only connect to a machine within your time slot. If you would like to access the machine within someone else's time slot, ask for permission first.
+3. Don't use the machine without reserving a time slot
+4. Don't run background resource-consuming tasks without reserving a time slot
+
+## Accessing campus cluster nodes
+
+# Guidelines for using remote machines
+## Research group computers
+1. If you are installing software (Especially Python), make sure to check **Install for this user only** option if possible. This way there would be no conflicts of installed software between different users.
+2. Use the *C drive* for any computations as it is an SSD and the computation would be faster. Make sure to keep your files inside your user directory (C:/Users/YourNetID). For any data storage, either use the other drive or use storage nodes
+3. Clean your files (especially on C drive) regularly, as it is a shared storage with other users in the lab.
+
