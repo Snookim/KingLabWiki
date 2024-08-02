@@ -28,7 +28,7 @@ After reserving the time slot, you can access the machine using **Windows Remote
 6. You are connected now to the workstation
 
 Notes:
-1. You have to be connected to the campus network to access the lab computers. If you are outside campus network, you can use [Campus VPN](https://github.com/wpklab/KingLabWiki/edit/main/software.md#vpn-access)
+1. You have to be connected to the campus network to access the lab computers. If you are outside campus network, you can use [Campus VPN](https://github.com/wpklab/KingLabWiki/blob/main/software.md#vpn-access)
 2. Only connect to a machine within your time slot. If you would like to access the machine within someone else's time slot, ask for permission first.
 3. Don't use the machine without reserving a time slot
 4. Don't run background resource-consuming tasks without reserving a time slot
