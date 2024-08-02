@@ -22,15 +22,7 @@ You have to complete the ISSS check-in as soon as you arrive in the USA. You can
 The UIUC i-Card has many perks including free transportation access in Urbana-Champaign. Some other ID card perks are listed at - https://www.icardperks.uillinois.edu/cms/one.aspx?portalId=830098&pageId=837975. To issue an i-Card, follow [this link](https://icard.uillinois.edu/public/get-card.cfm).
 
 ### Request Building access and key to access the office
-You should contact the MechSE Receiving office to grant you access to MEB and MEL buildings. You can request this by emailing them (mechse-receiving@illinois.edu). Additionally, request access to our labs at MEL 1218 and MEL 1230. Make sure to include your UIN in the email.
-
-Additionally, you should request a key for your office through the following:
-1. Sign-in to your "My MechSe" account through the following [link](https://my.mechse.illinois.edu/)
-2. From the menu bar at the top, select **Facilities** and then **Key Request**, or follow this [link](https://my.mechse.illinois.edu/keys/request/)
-3. Choose the room number, and click **Add key**
-4. You will be contacted later by MechSe Facilities and Services office to receive your key.
-
-MechSe Facilities and Services office is located at MEB. Use the smaller elevator (down the hallway), and go to the basement. Once you leave the elevator, go down the hallway straight in front of you, and you should find the office at the end of the hallway on the left.
+More info [here](https://github.com/wpklab/KingLabWiki/blob/main/mechsedepartment.md#keys-and-card-access)
 
 ### Bank Account
 As soon as you arrive at UIUC, you should have a bank account. The two major banks available in Urbana-Champaign are [Chase](https://www.chase.com/) and [PNC](https://www.pnc.com/en/personal-banking.html). While PNC is more suited for UIUC students, Chase provides more versatile banking options and perks. If you decide to go with PNC, you can open your account at [Illini Union Bookstore](https://g.co/kgs/tCdYs2X), which is the same location where you will issue the i-card.
