@@ -4,6 +4,7 @@
 - [Room Reservations](#room-reservations)
 - [Purchasing Requests](#purchasing-requests)
 - [Travel Requests](#travel-requests)
+- [Reimbursment](#reimbursement)
 
 ## MyMechse
 
@@ -63,7 +64,7 @@ The order internal status can be tracked on the purchasing page. For orders with
 
 ## Travel Requests
 
-If you are attending a confrence or have other university travel, you must submit a travel request well in advance of the dates you will be gone. It is required to complete the travel request if you are hoping to be reimbursed for any of your travel, without the documented request your reimbursement will not be approved. See the [Business Travel Guide](Guides/Business Travel Guide.pdf) and the [Travel App Guide](Guides/Travel App Guide.pdf) for details. Basic instructions are also shown below.
+If you are attending a confrence or have other university travel, you must submit a travel request well in advance of the dates you will be gone. It is required to complete the travel request if you are hoping to be reimbursed for any of your travel, without the documented request your reimbursement will not be approved. See the [Business Travel Guide](Guides/BusinessTravelGuide.pdf) and the [Travel App Guide](Guides/TravelAppGuide.pdf) for details. Basic instructions are also shown below.
 
 A travel request can be submitted from the my.mechse site. Navigate to the "Travel" page under the "Finance" tab.
 
@@ -95,5 +96,15 @@ Once all the information has been completed, you can review and submit your requ
 
 Once your travel request is approved in the Travel App, please send the Travel ID number and all related documentation (conference registration, lodging, flight information and conference agendas) to mechse-business@illinois.edu.  Please work with the Business Office as much as possible to arrange travel ahead of time using university procurement methods, reducing the need for reimbursements.
 
+Other travel reminders from the buisiness office:
 
+- All international travel requires additional review and pre-approval from University International Safety and Security and our Unit Executive Officer.  We will send you details on that process once the request is submitted in the Travel App.
+- All travel must be by the most direct route, using the most economical mode of transportation.  This includes only choosing economy seating and basic ride share services.  Any surcharges and upgrades must be paid for by the employee.
+- University policy allows for you to arrive one day before and leave one day after a conference for university business travel.  If you exceed that approved period of business travel, a justification will need to be provided along with a price comparison for airfare costs (if airfare was purchased).  Any travel beyond that time is considered personal and must be paid for by the employee. 
+- If meals are provided at the conference/business event, they must be deducted from per diem requests.
+- When renting a car for domestic travel, optional insurance coverage and damage waivers will not be reimbursed.
+- Shared Travel Expenses - Business travel expenses should be reimbursed to the individual who incurred them. Please do not pay for travel expenses on behalf of someone else and seek reimbursement. The only exception to that is regarding shared lodging; you may cover the costs of a shared hotel room as long as only one traveler seeks reimbursement for the entire lodging expense. 
 
+## Reimbursement
+
+For travel expense reimbursements you should contact the MechSE business office (mechse-business@illinois.edu). In your email you should include the Travel ID number from your travel approval, any non-food related reciepts you have (airfare, hotel, rideshares, etc.), and a list of any meals provided by the confrence/event you attended. The business office will process the reimbursement in the Chrome River system. Reimbursements may take several weeks to process. 
