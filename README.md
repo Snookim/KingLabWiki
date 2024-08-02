@@ -20,6 +20,7 @@ Welcome to the King Lab Wiki! This wiki will accelerate your onboarding and prov
 ## Campus and Beyond
 - [Tips for Success](./tips.md)
 - [Attitude, Mindset, and Outlook](./mentality.md)
+- [When you first arrive at UIUC](./arriveatUIUC.md)
 - [Daily Life Essentials](./dailylife.md)
 - [Where to visit in CU](./visit.md)
 
