@@ -9,7 +9,7 @@ Welcome to the King Lab Wiki! This wiki will accelerate your onboarding and prov
 
 ## General Resources
 - [Lab Facilities](./labfacilities.md)
-- [Working with the Business Office](./businessoffice.md)
+- [Working with the Business Office](./mechsedepartment.md)
 
 ## Computing Resources
 - [Introduction to GitHub](./github/githubintro.md)
