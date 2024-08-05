@@ -47,6 +47,8 @@ After you have gained access to the campus clusters, you can access them using S
 5. GoTo your email and accept the terms and conditions in the mail you would receive
 6. Now you can access the cluster using step 2
 
+To transfer files, use Globus. The name of the resource on Globus is "Illinois Research Storage". You have to permit Globus to validate your Illinois ID and then you are all set - you can sync files between your computer or our lab workstation to the HPCs.
+
 # Guidelines for using remote machines
 ## Research group computers
 1. If you are installing software (Especially Python), make sure to check **Install for this user only** option if possible. This way there would be no conflicts of installed software between different users.
