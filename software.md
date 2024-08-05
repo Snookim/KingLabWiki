@@ -34,6 +34,18 @@ Notes:
 4. Don't run background resource-consuming tasks without reserving a time slot
 
 ## Accessing campus cluster nodes
+Clusters are high-performance computers with many GPUs and CPU cores that work as a single entity. Our lab has 2 cluster nodes each with 8xL40S GPUs, dual AMD 7763, 1TB of RAM, and HDR100. It is under the project group "wpk". It is highly recommended to complete the following courses before moving into using clusters:
+1. [Basics of HPC](https://www.hpc-training.org/moodle/course/view.php?id=39)
+2. [Introduction to HPC workflow](https://www.hpc-training.org/moodle/course/view.php?id=71)
+3. Basics of Linux CLI - [Lesson 1](https://www.linfo.org/command_line_lesson_1.html), [Lesson 2](https://www.linfo.org/command_line_lesson_2.html)
+To access the courses you would have to create an account on Globus. Globus is also a useful entity to help us transfer file to and fro from the HPCs. The second course will also help you get acquainted with Globus and its needs.
+After you have gained access to the campus clusters, you can access them using SSH. You can use a GUI tool like PUTTY, or MobaXTerm in Windows or use CLI directly. To use CLI:
+1. Open up the terminal in Linux and MacOS or Powershell in Windows.
+2. Type ssh <netid>@cc-login.campuscluster.illinois.edu
+3. When prompted enter your password
+4. Close the terminal
+5. GoTo your email and accept the terms and conditions in the mail you would receive
+6. Now you can access the cluster using step 2
 
 # Guidelines for using remote machines
 ## Research group computers
